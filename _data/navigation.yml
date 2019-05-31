@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "소개" # 네비게이션 바에 표시 되는 이름
+    url: "/about/" # 클릭시 이동할 URL
+  - title: "Publications" # 네비게이션 바에 표시 되는 이름
+    url: "/publications/" # 클릭시 이동할 URL
+  - title: "Software"
+    url: /software/
+  - title: "Datasets"
+    url: /datasets/
+  - title: "Partners"
+    url: /partners/
