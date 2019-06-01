@@ -3,9 +3,9 @@ layout: splash
 author_profile: false
 title: AIR is (AI for Robots)
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/unsplash-image-1.jpg
+  overlay_color: rgba(31, 250, 207)
+  overlay_filter: "0.6"
+  overlay_image: /assets/air2.png
 excerpt: We develop AI technologies for Human-Care Robots
 ---
 
