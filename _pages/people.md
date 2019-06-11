@@ -14,20 +14,21 @@ toc: true
 ## Electronics and Telecommunications Research Institute, South Korea
 * Jaeyeon Lee (Principal Investigator)
 * Jaehong Kim (Project Coordinator) [[google scholar](https://scholar.google.co.kr/citations?hl=en&user=PfnxK1kAAAAJ)]
-* Minsu Jang (Project Coordinator, Social Human-Robot Interaction Framework) [[google scholar](https://scholar.google.com/citations?hl=en&user=ggkuHCcAAAAJ)]
-* Dohyung Kim (Project Coordinator, Daily/Interaction Action Detection and Recognition)
-* Jinhyuk Jang (Daily/Interaction Action Detection and Recognition)
 * Hosub Yoon (Face Recognition, Facial Attriutes Recognition) [[google scholar](https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra)]
 * Sungwoo Park (Facial Attributes Recognition)
 * Chankyu Park (Human Attributes Recognition)
+* Dohyung Kim (Project Coordinator, Daily/Interaction Action Detection and Recognition)
+* Jinhyuk Jang (Daily/Interaction Action Detection and Recognition)
 * Woo-han Yoon (Object Instance Detection, Few-Shot Learning) [[google scholar](https://scholar.google.com/citations?user=qvGnAasAAAAJ&hl=en)]
 * Youngwoo Yoon (Co-Speech Gesture Generation) [[google scholar](https://scholar.google.com/citations?hl=en&user=XPL1OiAAAAAJ)]
 * Woo-Ri Ko (Non-Verbal Interaction Behavior Generation)
 * Cheon-Shu Park (Turn-Taking Intention Recognition)
 * Joo-Haeng Lee (Synthetic Dataset Generation, Reinforcement Learning for Robots) [[google scholar](https://scholar.google.co.kr/citations?hl=en&user=f529BfkAAAAJ)]
 * Taewoo Kim (Reinforcement Learning-based Social Behavior Imitation)
+* Bok, Cha (VR/AR for Human-Robot Interaction)
 * Miyoung Cho (Robot Intelligence Qualification Framework)
 * Choul-Soo Jang (Context-based Service Selection, Social Human-Robot Interaction Framework)
+* Minsu Jang (Project Coordinator, Social Human-Robot Interaction Framework) [[google scholar](https://scholar.google.com/citations?hl=en&user=ggkuHCcAAAAJ)]
 * Dae-Ha Lee (Robot System Integration, Social Human-Robot Interaction Framework)
 
 ## Korea Advanced Institute of Science and Technology, South Korea
