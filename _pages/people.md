@@ -23,7 +23,7 @@ toc: true
 * Youngwoo Yoon (Co-Speech Gesture Generation) [[google scholar](https://scholar.google.com/citations?hl=en&user=XPL1OiAAAAAJ)]
 * Woo-Ri Ko (Non-Verbal Interaction Behavior Generation)
 * Cheon-Shu Park (Turn-Taking Intention Recognition)
-* Joo-Haeng Lee (Synthetic Dataset Generation, Reinforcement Learning for Robots) [[google scholar](https://scholar.google.co.kr/citations?hl=en&user=f529BfkAAAAJ)]
+* Joo-Haeng Lee (Synthetic learning set, VR/MR for ML/robotics, Reinforcement learning) [[google scholar](https://scholar.google.co.kr/citations?hl=en&user=f529BfkAAAAJ)]
 * Taewoo Kim (Reinforcement Learning-based Social Behavior Imitation)
 * Bok, Cha (VR/AR for Human-Robot Interaction)
 * Miyoung Cho (Robot Intelligence Qualification Framework)
