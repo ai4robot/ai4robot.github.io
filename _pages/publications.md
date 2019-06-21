@@ -13,6 +13,8 @@ toc: true
 
 ## International Conferences/Journals
 
+* A. K. Ostrowski, D. DiPaola, E. Partridge, H. W. Park and C. Breazeal, "Older Adults Living With Social Robots: Promoting Social Connectedness in Long-Term Communities," in IEEE Robotics & Automation Magazine, vol. 26, no. 2, pp. 59-70, June 2019. doi: 10.1109/MRA.2019.2905234, [[link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8703390&isnumber=8735986)]
+
 * Yoon, Y., Ko, W.R., Jang, M., Lee, J., Kim, J. and Lee, G., 2019. Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots. Proc. of The International Conference in Robotics and Automation (ICRA 2019). [[project homepage](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)] [[arxiv](https://arxiv.org/abs/1810.12541)]
 
 * Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang. "Deep Asymmetric Networks with a Set of Node-wise Variant Activation Functions." arXiv preprint arXiv:1809.03721 (2018). [[arxiv](https://arxiv.org/abs/1809.03721)]
