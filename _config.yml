@@ -242,7 +242,6 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
