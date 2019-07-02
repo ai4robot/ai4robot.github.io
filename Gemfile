@@ -10,6 +10,7 @@ gem "github-pages", group: :jekyll_plugins
 #  public_suffix  window상 설치필요
 
 group :jekyll_plugins do
+  gem 'bootstrap'
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"

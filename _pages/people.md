@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-layout: splash
+layout: profile
 title: People
 header:
   overlay_color: rgba(144, 12, 63, 0.5)
