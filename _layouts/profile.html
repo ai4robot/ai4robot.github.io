@@ -17,7 +17,6 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content" itemprop="text">
-      
       {% for dep in site.data.people.main %}
       <h1>{{dep.department}}</h1>
       <br>

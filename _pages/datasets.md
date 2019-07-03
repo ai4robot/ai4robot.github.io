@@ -1,6 +1,6 @@
 ---
 permalink: /datasets/
-layout: splash
+layout: datasets
 title: Datasets
 header:
   overlay_color: rgba(199, 0, 57, 0.5)
