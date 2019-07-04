@@ -20,3 +20,4 @@ group :jekyll_plugins do
 end
 
 gem "minimal-mistakes-jekyll"
+
