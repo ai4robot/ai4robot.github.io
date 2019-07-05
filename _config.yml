@@ -312,6 +312,10 @@ collections:
   datasets:
     output: true
     permalink: /_datasets/:title.md
+  people:
+    output: true
+    permalink: /people/:title.md
+
 
 # google_analytics
 # google_analytics: UA-143274766-1

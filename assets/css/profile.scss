@@ -110,10 +110,15 @@ section .section-title {
     color: #007b5e !important;
 }
 
-.frontside .card .card-body img {
+.frontside .card .card-body .img-fluid{
     width: 120px;
     height: 120px;
     border-radius: 50%;
 }
 
 
+.queto{
+    display: inline-block;
+    margin-bottom: 10px;
+    opacity: 0.5;
+}

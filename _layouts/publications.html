@@ -7,7 +7,7 @@ layout: splash
   }
 </style>
 
-{% assign journals = site.publications[0]%}
+{% assign journals = site.data.publications%}
   {% for j in journals.main %}
     <h2>{{j.title}}</h2>
     {% for data in j.journal %}
@@ -19,8 +19,8 @@ layout: splash
           <img class="align-self-center mr-3" data-src="holder.js/80x80" alt="80x80" style="width: 80px; height: 80px;" src="/assets/air.png" data-holder-rendered="true">
           {% endif%}
           <div class="media-body" style="font-size: 16px">
+            <b>{{data.title}}</b> <br>
             {{data.author}} <br>
-            {{data.title}} <br>
             {{data.academy}} <br>
             <!-- 만약 링크가 있다면? -->
             {% for link in data.link%}

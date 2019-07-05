@@ -8,7 +8,7 @@ layout: splash
 </style>
 {{ content }}
 
-{% assign codes = site.codes[0]%}
+{% assign codes = site.data.codes%}
   {% for data in codes.main %}
     <h2>{{data.title}}</h2>
       <div class="alert alert-secondary" role="alert">

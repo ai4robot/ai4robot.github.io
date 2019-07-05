@@ -1,9 +1,8 @@
----
 main:
   - title: "International Conferences/Journals"
     journal:
-      - title: "A. K. Ostrowski, D. DiPaola, E. Partridge, H. W. Park and C. Breazeal"
-        author: "Older Adults Living With Social Robots: Promoting Social Connectedness in Long-Term Communities"
+      - title: "Older Adults Living With Social Robots: Promoting Social Connectedness in Long-Term Communities"
+        author: "A. K. Ostrowski, D. DiPaola, E. Partridge, H. W. Park and C. Breazeal"
         academy: "IEEE Robotics & Automation Magazine, vol. 26, no. 2, pp. 59-70, June 2019. doi: 10.1109/MRA.2019.2905234, "
         image : "/assets/air.png"
         link:
@@ -81,4 +80,3 @@ search: false
 categories: 
   - Jekyll
 last_modified_at: 2018-02-19T08:06:00-05:00
----
