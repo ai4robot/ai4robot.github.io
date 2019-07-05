@@ -18,7 +18,7 @@ layout: default
 
     <section class="page__content" itemprop="text">
       {% for dep in site.data.people.main %}
-      <h2>{{dep.department}}</h2>
+      <h2 style="margin: 0em 0 0.5em;">{{dep.department}}</h2>
       <br>
       <div class="row">
         {% for people in dep.child %}
@@ -48,6 +48,7 @@ layout: default
             </div>
         {% endfor %}
         </div>
+        <br><br>
       {% endfor %}
     </section>
 

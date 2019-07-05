@@ -2,7 +2,8 @@
   - department: "Electronics and Telecommunications Research Institute, South Korea"
     child: 
       - name: "Jaeyeon Lee"
-        position: "Principal Investigator" 
+        position: "Principal Investigator"
+        image: "/assets/air.png" 
       - name: "Jaehong Kim" 
         position: "Project Coordinator"
         url-name: "google scholar"
