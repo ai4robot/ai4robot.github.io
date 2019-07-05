@@ -2,7 +2,6 @@
 layout: splash
 author_profile: false
 title: AIR is (AI for Robots)
-permalink: /
 header:
   overlay_color: rgba(31, 250, 207)
   overlay_filter: "0.6"
