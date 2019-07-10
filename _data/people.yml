@@ -51,6 +51,7 @@
         position: "Context-based Service Selection, Social Human-Robot Interaction Framework" 
       - name: "Minsu Jang"
         position: "Project Coordinator, Social Human-Robot Interaction Framework" 
+        image : "/assets/minsujang.png"
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?hl=en&user=ggkuHCcAAAAJ"
