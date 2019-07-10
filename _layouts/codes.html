@@ -10,7 +10,6 @@ layout: splash
 
 {% assign codes = site.data.codes%}
   {% for data in codes.main %}
-    <h2>{{data.title}}</h2>
       <div class="alert alert-secondary" role="alert">
         <div class="media">
           {% if data.image %}
@@ -19,6 +18,7 @@ layout: splash
           <img class="align-self-center mr-3" data-src="holder.js/80x80" alt="80x80" style="width: 320px; height: 240px;" src="/assets/air.png" data-holder-rendered="true">
           {% endif%}
           <div class="media-body" style="font-size: 16px">
+            <h1>{{data.title}}</h1>
             {{data.body}} <br>
             <!-- 만약 링크가 있다면? -->
             {% for link in data.link%}
