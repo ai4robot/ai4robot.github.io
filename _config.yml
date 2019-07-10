@@ -232,6 +232,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -241,7 +242,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 # Archives
 #  Type
@@ -299,3 +299,23 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+
+# 커스텀 변수
+collections:
+  publications:
+    output: true
+    permalink: /_publications/:title.md
+  codes:
+    output: true
+    permalink: /_codes/:title.md
+  datasets:
+    output: true
+    permalink: /_datasets/:title.md
+  people:
+    output: true
+    permalink: /people/:title.md
+
+
+# google_analytics
+# google_analytics: UA-143274766-1

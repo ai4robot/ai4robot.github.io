@@ -1,0 +1,33 @@
+---
+layout: splash
+---
+<style>
+  .inline{
+    display:inline;
+  }
+</style>
+{{ content }}
+
+{% assign codes = site.data.codes%}
+  {% for data in codes.main %}
+    <h2>{{data.title}}</h2>
+      <div class="alert alert-secondary" role="alert">
+        <div class="media">
+          {% if data.image %}
+          <img class="align-self-center mr-3" data-src="holder.js/80x80" alt="80x80" style="width: 80px; height: 80px;" src="{{data.image}}" data-holder-rendered="true">
+          {% else %}
+          <img class="align-self-center mr-3" data-src="holder.js/80x80" alt="80x80" style="width: 80px; height: 80px;" src="/assets/air.png" data-holder-rendered="true">
+          {% endif%}
+          <div class="media-body" style="font-size: 16px">
+            {{data.body}} <br>
+            <!-- 만약 링크가 있다면? -->
+            {% for link in data.link%}
+                <a href="{{link.url}}" class="inline">[{{link.name}}]</a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+  {% endfor %}
+
+
+

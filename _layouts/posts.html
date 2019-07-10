@@ -4,6 +4,8 @@ layout: archive
 
 {{ content }}
 
+
+<!-- 년도 -->
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -15,6 +17,8 @@ layout: archive
   {% endfor %}
 </ul>
 
+
+<!-- 내용부분 -->
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
@@ -24,6 +28,6 @@ layout: archive
         {% include archive-single.html type=page.entries_layout %}
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uar;</a>
   </section>
 {% endfor %}
