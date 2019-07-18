@@ -1,5 +1,7 @@
 ---
 title:  "어르신들의 일상 활동: 어떤 행동을 인식할까?"
+header:
+  image: /assets/elderly_action_recognition.jpg
 search: false
 categories: 
   - adl
