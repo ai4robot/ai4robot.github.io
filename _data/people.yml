@@ -15,20 +15,24 @@
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra"
       - name: "Sungwoo Park" 
-        position: "Facial Attributes Recognition" 
+        position: "Facial Attributes Recognition"
+        image : "/assets/sungwoo.jpg"
       - name: "Chankyu Park" 
         position: "Human Attributes Recognition"
+        image : "/assets/chankyu.png"
       - name: "Dohyung Kim"
         position: "Project Coordinator, Daily/Interaction Action Detection and Recognition"
       - name: "Jinhyuk Jang" 
         position: "Daily/Interaction Action Detection and Recognition" 
-      - name: "Woo-han Yoon"
+      - name: "Woo-han Yun"
         position: "Object Instance Detection, Few-Shot Learning"
+        image : "/assets/woohan.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?user=qvGnAasAAAAJ&hl=en"
       - name: "Youngwoo Yoon"
         position: "Co-Speech Gesture Generation"
+        image : "/assets/youngwoo.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?hl=en&user=XPL1OiAAAAAJ"
@@ -99,11 +103,14 @@
       - name: "Sang-Won Seo"
         position: "Speech Recognition and Synthesis, Dialog Modeling"
   - department: "Personal Robots Group, MIT, USA"
-    child: 
+    child:
       - name: "Hae Won Park"
         position: "Project Coordinator, Human-Robot Interaction Design, Long-term User Study"
+        link:
+          - name: "google scholar"
+            url: "https://scholar.google.co.kr/citations?user=kJoNMc8AAAAJ"
       - name: "Cynthia Breazeal"
         position: "Project Coordinator, Human-Robot Interaction Design, Long-term User Study"
         link:
           - name: "google scholar"
-            url: "https://scholar.google.co.kr/citations?hl=en&user=kJoNMc8AAAAJ"
+            url: "https://scholar.google.com/citations?user=qb3jyP4AAAAJ"
