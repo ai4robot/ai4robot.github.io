@@ -106,11 +106,13 @@
     child:
       - name: "Hae Won Park"
         position: "Project Coordinator, Human-Robot Interaction Design, Long-term User Study"
+        image : "/assets/haewon_park.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=kJoNMc8AAAAJ"
       - name: "Cynthia Breazeal"
         position: "Project Coordinator, Human-Robot Interaction Design, Long-term User Study"
+        image : "/assets/cynthia_breazeal.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?user=qb3jyP4AAAAJ"
