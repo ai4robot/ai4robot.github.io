@@ -13,8 +13,9 @@
 
 <style>
 .custom{
-  width: 42px;
-  height: 42px;
+  width: auto;
+  max-height: 100px;
+  
 }
 .col-2 img{
   height: 100%;
@@ -42,7 +43,7 @@
           {% if post.image%}
           <img class="custom" src="{{ post.image | relative_url }}" style="display:inline-block" alt="">
           {% else %}
-          <img class="custom" src="{{'/assets/alt.jpg' | relative_url }}" style="display:inline-block" alt="">
+          <img class="custom" src="{{'/assets/air.png' | relative_url }}" style="display:inline-block" alt="">
           {% endif%}
         </div>
         <div class="col-10">

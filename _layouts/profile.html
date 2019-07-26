@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<style>
+.col-md-2{
+  margin-right: 5px;
+  margin-right: 5px;
+}
+#profile {
+  width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.card-title{
+  font-size: 18px;
+}
+.card-text{
+  font-size: 14px;
+}
+.row > div{
+  margin-bottom: 30px;
+}
+
+</style>
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
@@ -18,43 +39,43 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
-    <section class="page__content" itemprop="text">
+
+
+        <section class="page__content" itemprop="text">
       {% for dep in site.data.people.main %}
       <h2 style="margin: 0em 0 0.5em;">{{dep.department}}</h2>
       <br>
-      <div class="row">
+      <div class="row justify-content-center align-items-center" style="">
         {% for people in dep.child %}
-            <div class="col-xs-12 col-sm-6 col-md-4 ">
+              <div class="col-xs-12 col-sm-6 col-md-2 align-self-start"> 
                 <div class="image-flip">
                     <div class="mainflip">
                         <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
+                                <div class="text-center" style="">
                                     <p>
                                         {% if people.image %}
-                                        <img class="img-fluid" src="{{people.image}}" alt="">
+                                        <img class="img-fluid" id="profile" src="{{people.image}}" alt="">
                                         {% else %}
-                                        <img class="img-fluid" src="{{'/assets/alt.jpg' | relative_url }}" alt="">
+                                        <img class="img-fluid" id="profile" src="{{'/assets/alt.jpg' | relative_url }}" alt="">
                                         {% endif %}
                                     </p>
-                                    <h4 class="card-title" style="font-size: 26px;">{{people.name}}</h4>   
-                                    <p class="card-text default_size" style="font-size: 16px;">{{people.position}}</p>
-
-                                    <div>
-                                      
+                                    <h4 class="card-title" style="">{{people.name}}</h4>   
+                                    <p class="card-text default_size" style="font-size: 16px;">{{people.position}} <br>
                                       {% if people.description %}
-                                      
-                                        <p class="card-text default_size " style="font-size: 16px;" ><img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" style=" transform:rotate(180deg);" height="20px" width="10px" alt="">&nbsp {{ people.description }} &nbsp<img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" height="20px" width="10px" alt=""></p>
-                                        
+                                      <img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" style=" transform:rotate(180deg);" height="20px" width="10px" alt="">&nbsp {{ people.description }} &nbsp<img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" height="20px" width="10px" alt="">
+                                      <br>
                                       {% endif %}
-                                      {% for links in people.link%}
-                                        <a href="{{links.url}}" class="inline_style" style="display: inline; font-size: 14px;">[{{links.name}}]</a>
-                                      {% endfor %}
-                                    </div>
+                                    {% for links in people.link%}
+                                      <a href="{{links.url}}" class="inline_style" style="display: inline; font-size: 14px;">[{{links.name}}]</a>
+                                    {% endfor %}
+                                    
+                                    </p>
+
+                                      
+                                      
 
   
                                 </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -67,3 +88,16 @@ layout: default
 
   </article>
 </div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+  // $(document).ready(function(){
+  //     var highestBox = 0;
+  //     $('.card-body', this).each(function(){
+
+  //       if($(this).height() > highestBox)
+  //       highestBox = $(this).height();
+  //       });
+
+  //     $('.card-body',this).height(highestBox);
+  // });
+</script>
