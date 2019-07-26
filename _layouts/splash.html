@@ -2,6 +2,10 @@
 layout: default
 ---
 <style>
+h1{
+  font-size: 1.7em;
+  font-weight: bold;
+}
 h2{
   font-weight: bold;
   margin-top: 50px;
@@ -9,9 +13,11 @@ h2{
 h3{
   font-size: 1em;
 }
-.page__content li{
-  font-size: 0.8em;
+.page__content > li{
+  font-size: 1.25em;
 }
+
+
 </style>
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
