@@ -6,6 +6,7 @@
         description: "안녕하세요."
       - name: "Jaehong Kim" 
         position: "Project Coordinator"
+        image : "/assets/jaehongkim.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?hl=en&user=PfnxK1kAAAAJ"
