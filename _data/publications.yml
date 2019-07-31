@@ -11,6 +11,7 @@ main:
       - title: "2019. Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots."
         author: "Yoon, Y., Ko, W.R., Jang, M., Lee, J., Kim, J. and Lee, G."
         academy: "Proc. of The International Conference in Robotics and Automation (ICRA 2019)."
+        image : "/assets/cospeech_gesture.jpg"
         link:
           - name: "project homepage"
             url: "https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation"
