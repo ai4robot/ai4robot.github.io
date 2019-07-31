@@ -2,8 +2,8 @@
   - department: "Electronics and Telecommunications Research Institute, South Korea"
     child: 
       - name: "Jaeyeon Lee"
-        position: "Principal Investigator"
-        description: "안녕하세요."
+        position: "Principal Investigator, Pose Classification, Image Captioning"
+        image : "/assets/leejy.jpg"
       - name: "Jaehong Kim" 
         position: "Project Coordinator"
         image : "/assets/jaehongkim.jpg"
