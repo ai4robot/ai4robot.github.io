@@ -12,6 +12,7 @@
             url: "https://scholar.google.co.kr/citations?hl=en&user=PfnxK1kAAAAJ"
       - name: "Hosub Yoon"
         position: "Face Recognition, Facial Attriutes Recognition"
+        image : "/assets/hosub_yoon.png"
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra"
