@@ -20,6 +20,7 @@ main:
       - title: "“Deep Asymmetric Networks with a Set of Node-wise Variant Activation Functions.”"
         author: "Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang."
         academy: "arXiv preprint arXiv:1809.03721 (2018)."
+        image : "/assets/variant_activation_function.jpg"
         link:
           - name: "arxiv"
             url: "https://arxiv.org/abs/1809.03721"
