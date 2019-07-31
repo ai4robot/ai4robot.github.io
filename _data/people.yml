@@ -30,15 +30,18 @@
         image : "/assets/woohan.jpg"
         link:
           - name: "google scholar"
-            url: "https://scholar.google.com/citations?user=qvGnAasAAAAJ&hl=en"
+            url: "https://scholar.google.com/citations?user=qvGnAasAAAAJ"
       - name: "Youngwoo Yoon"
         position: "Co-Speech Gesture Generation"
         image : "/assets/youngwoo.jpg"
         link:
           - name: "google scholar"
-            url: "https://scholar.google.com/citations?hl=en&user=XPL1OiAAAAAJ"
+            url: "https://scholar.google.com/citations?user=XPL1OiAAAAAJ"
       - name: "Woo-Ri Ko"
         position: "Non-Verbal Interaction Behavior Generation" 
+        link:
+          - name: "google scholar"
+            url: "https://scholar.google.com/citations?user=_T4THfMAAAAJ"
       - name: "Cheon-Shu Park"
         position: "Turn-Taking Intention Recognition" 
       - name: "Joo-Haeng Lee"
