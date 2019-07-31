@@ -39,6 +39,7 @@
             url: "https://scholar.google.com/citations?user=XPL1OiAAAAAJ"
       - name: "Woo-Ri Ko"
         position: "Non-Verbal Interaction Behavior Generation" 
+        image : "/assets/wrko.jpg"
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?user=_T4THfMAAAAJ"
