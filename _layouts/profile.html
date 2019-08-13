@@ -59,8 +59,12 @@ layout: default
                                         <img class="img-fluid" id="profile" src="{{'/assets/alt.jpg' | relative_url }}" alt="">
                                         {% endif %}
                                     </p>
-                                    <h4 class="card-title" style="">{{people.name}}</h4>   
-                                    <p class="card-text default_size" style="font-size: 16px;">{{people.position}} <br>
+                                    <h4 class="card-title" style="">{{people.name}}</h4>
+                                      
+                                    <p class="card-text default_size" style="font-size: 16px; margin-bottom: 0px;"><i>{{people.position}}</i><br>
+                                    {% if people.research != "" && people.research %}  
+                                    <p class="card-text default_size" style="font-size: 16px;">{{people.research}} <br>
+                                    {% endif %}
                                       {% if people.description %}
                                       <img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" style=" transform:rotate(180deg);" height="20px" width="10px" alt="">&nbsp {{ people.description }} &nbsp<img class="queto" src="{{ '/assets/quotes.png' | relative_url }}" height="20px" width="10px" alt="">
                                       <br>
