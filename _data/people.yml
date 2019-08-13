@@ -2,9 +2,9 @@
   - department: "Electronics and Telecommunications Research Institute, South Korea"
     child: 
       - name: "Jaeyeon Lee"
-        position: "Principal Investigator"
         research: ""
-        description: "안녕하세요."
+        position: "Principal Investigator, Pose Classification, Image Captioning"
+        image : "/assets/leejy.jpg"
       - name: "Jaehong Kim" 
         position: "Project Coordinator"
         research: ""
@@ -15,6 +15,7 @@
       - name: "Hosub Yoon"
         position: "Face Recognition, Facial Attriutes Recognition"
         research: ""
+        image : "/assets/hosub_yoon.png"
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra"
@@ -29,6 +30,7 @@
       - name: "Dohyung Kim"
         position: "Project Coordinator, Daily/Interaction Action Detection and Recognition"
         research: ""
+        image : "/assets/dhkim.png"
       - name: "Jinhyuk Jang" 
         position: "Daily/Interaction Action Detection and Recognition" 
         research: ""
@@ -38,18 +40,21 @@
         image : "/assets/woohan.jpg"
         link:
           - name: "google scholar"
-            url: "https://scholar.google.com/citations?user=qvGnAasAAAAJ&hl=en"
+            url: "https://scholar.google.com/citations?user=qvGnAasAAAAJ"
       - name: "Youngwoo Yoon"
         position: "Co-Speech Gesture Generation"
         research: ""
         image : "/assets/youngwoo.jpg"
         link:
           - name: "google scholar"
-            url: "https://scholar.google.com/citations?hl=en&user=XPL1OiAAAAAJ"
+            url: "https://scholar.google.com/citations?user=XPL1OiAAAAAJ"
       - name: "Woo-Ri Ko"
         position: "Non-Verbal Interaction Behavior Generation" 
         research: ""
-
+        image : "/assets/wrko.png"
+        link:
+          - name: "google scholar"
+            url: "https://scholar.google.com/citations?user=_T4THfMAAAAJ"
       - name: "Cheon-Shu Park"
         position: "Turn-Taking Intention Recognition" 
         research: ""
