@@ -46,7 +46,7 @@ main:
             url: "https://ai4robot.github.io/resources/minsujang_hri2018workshop.pdf"
       - title: "Building Datasets for Training Robots’ Social Intelligence."
         author: "Jang, M., Kim, D., Lee, J."
-        academy: "Proc. of The Workshop on Social Human-Robot Interaction for Service Robots, ICSE 2018"
+        academy: "Proc. of The Workshop on Social Human-Robot Interaction for Service Robots, ICSR 2018"
         image : "/assets/air_datasets_2018.jpg"
         link:
           - name: "@ICSR 2018"
