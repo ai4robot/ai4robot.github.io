@@ -89,7 +89,7 @@
   - department: "Korea Advanced Institute of Science and Technology, South Korea"
     child: 
       - name: "Hyunseung Yang"
-        position: "Project Coordinator" 
+        position: "Project Manager" 
         research: "Human Detection and Tracking"
       - name: "Young Min Park"
         position: ""
@@ -111,7 +111,7 @@
   - department: "Korea Electronics Technology Institute, South Korea"
     child: 
       - name: "Jong-Bum Park"
-        position: "Project Coordinator"
+        position: "Project Manager"
         research: "Health Anomaly Detection"
       - name: "Dong-In Shin"
         position: ""
@@ -119,7 +119,7 @@
   - department: "Soong-Sil University, South Korea"
     child: 
       - name: "Youngtaek Park"
-        position: "Project Coordinator"
+        position: "Project Manager"
         research: "ADL Intention Recognition and Prediction"
       - name: "Hyun-Kyu Park"
         position: ""
@@ -130,12 +130,12 @@
   - department: "Surromind Robotics, South Korea"
     child: 
       - name: "Ha-Young Jang"
-        position: "Project Coordinator"
+        position: "Project Manager"
         research: "Affective Video Analysis, Storytelling"
   - department: "MINDs LAB, South Korea"
     child: 
       - name: "Joon-Whan Ahn"
-        position: "Project Coordinator"
+        position: "Project Manager"
         research: ""
         image : "/assets/hunwhanahn_mindslab.png"
       - name: "Sang-Won Seo"
@@ -149,7 +149,7 @@
   - department: "Personal Robots Group, MIT, USA"
     child:
       - name: "Hae Won Park"
-        position: "Project Coordinator"
+        position: "Project Manager"
         research: "Human-Robot Interaction Design, Long-term User Study"
         image : "/assets/haewon_park.jpg"
         link:
