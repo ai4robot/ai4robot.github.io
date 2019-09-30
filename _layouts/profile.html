@@ -76,7 +76,9 @@ layout: default
                                       <br>
                                       {% endif %}
                                     {% for links in people.link%}
+                                    <p class="card-text default_size" style="font-size: 12px;">
                                       <a href="{{links.url}}" class="inline_style" style="display: inline; font-size: 14px;">[{{links.name}}]</a>
+                                    <p></p>
                                     {% endfor %}
                                     
                                     </p>
