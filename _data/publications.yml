@@ -62,6 +62,17 @@ main:
           - name: "pdf"
             url: "#"
 
+  - title: "Talks/Slides"
+    journal:
+      - title: "Development of Human-Care Robot Technology for Aging Society"
+        author: "Minsu Jang"
+        academy: "2019-10-17 Workshop on Social Human-Robot Intelligence for Human-Care Robots @RO-MAN2019"
+        image : "/assets/roman2019_shri_workshop_minsujang_title.png"
+        link:
+          - name: "link"
+            url: "https://ai4robot.github.io/resources/roman2019_shri_workshop_minsujang.pdf"
+
+
   - title: "Korean Conferences/Journals"
     journal:
       - title: "로봇 환경에서의 고령자 일상 행동 인식을 위한 3차원 영상 데이터셋"
