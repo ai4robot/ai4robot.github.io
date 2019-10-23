@@ -6,6 +6,13 @@ main:
       - name: "Link"
         url: "https://github.com/youngwoo-yoon/youtube-gesture-dataset"
 
+  - title: "KETI EMG/IMU Action Dataset"
+    body: "A dataset for action detection recorded using Myo Arm band, which includes EMG/IMU signals. The dataset includes 55 daily actions."
+    image : "/assets/myarmband2.png"
+    link:
+      - name: "Link"
+        url: "https://github.com/ai4r/KETI-actiondetection"
+
 search: false
 categories: 
   - Jekyll
