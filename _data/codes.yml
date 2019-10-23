@@ -6,6 +6,13 @@ main:
       - name: "Repository"
         url: "https://github.com/youngwoo-yoon/youtube-gesture-dataset"
 
+  - title: "Human Detector/Tracker"
+    body: "A robust human detection and tracking for home environment, forked from Darkflow project(https://github.com/thtrieu/darkflow)."
+    image : "/assets/human_tracker.png"
+    link:
+      - name: "Repository"
+        url: "https://github.com/ai4r/AIR-HumanDetector"
+
 search: false
 categories: 
   - interpersonal intelligence
