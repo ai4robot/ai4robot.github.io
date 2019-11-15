@@ -6,7 +6,7 @@ main:
       - name: "Link"
         url: "https://ai4robot.github.io/etri-activity3d/"
 
-        - title: "Youtube TED Dataset"
+  - title: "Youtube TED Dataset"
     body: "A collection of human pose data for 1,766 TED video clips collected from Youtube. The average length of the clips is 12.7 minutes and the total number of frames is 35,685. This human pose dataset was used to train AI to generate co-speech gestures from speech texts."
     image : "/assets/youtube_dataset.png"
     link:
