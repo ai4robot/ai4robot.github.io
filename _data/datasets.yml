@@ -1,7 +1,7 @@
 main:
   - title: "ETRI-Activity3D"
     body: "로봇환경에서 고령자의 일상행동 인식을 위한 3D 영상 데이터셋으로 총 100명의 참여자로부터 55개 행동을 대상으로 수집한 11만여개의 RGB-DS 데이터로 구성되어 있다."
-    image : ""
+    image : "/resources/etri_activity3d.png"
     link:
       - name: "Link"
         url: "https://ai4robot.github.io/etri-activity3d/"
