@@ -84,9 +84,8 @@ toc: true
 
 <figure>
   <img src="/resources/data_collection_system.png" alt="data_collection_system"/>
+  <figcaption>데이터셋이 수집된 아파트의 평면도와 수집 촬영 장치의 구성</figcaption>
 </figure>
-
-<center>데이터셋이 수집된 아파트의 평면도와 수집 촬영 장치의 구성</center>
 
 ## 다운로드
 
