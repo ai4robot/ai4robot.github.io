@@ -59,7 +59,9 @@ toc: true
 
 70세 이상의 고령자 53명의 자택을 방문하여 기상부터 취침까지의 하루 행동을 직접 관찰하고 기록하였더니 총 245개의 일상 활동 유형으로 압축되었다. 이들 행동 중에 빈번하게 나타나는 행동으로 TV 시청, 식사관련 활동, 화장실 사용, 식사 준비, 전화 통화, 약 복용, 요리, 청소 등이 있었으며 이러한 다빈도 활동들을 기준으로 55종의 행동을 인식 대상으로 선정하였다.
 
-![activities_55](/resources/activities_55.png){ width=80% }
+<figure>
+  <img src="/resources/activities_55.png" alt="activities_55"/>
+</figure>
 
 ## 데이터 포맷
 
@@ -79,7 +81,10 @@ toc: true
 
 가정용 서비스 로봇의 높이를 고려하여 그림 2와 같이 70cm 와 120cm 높이에 각각 Kinect v2 센서가 설치된 촬영 장비를 제작하였다. 4개의 촬영 장치를 하나의 그룹으로 형성하였으며 그룹 내 8개의 동기화된 센서가 대상자의 행동을 동시에 캡쳐한다. 촬영 장치를 고정된 간격으로 배치하는 대신 로봇이 서비스 하는 상황에서 존재할 수 있는 다양한 위치에 배치한다. 촬영 장치와 대상자의 거리는 1.5m에서 3.5m까지 다양하다. 약 먹기나 상의 입기 등 어디서나 할 수 있는 행동에 대해서는 장소를 변경해 가면서 최대 5회까지 촬영하였다. 모든 그룹과 카메라 번호는 각 비디오 샘플의 파일 이름으로 제공된다.
 
-![data_collection_system](/resources/data_collection_system.png){ width=80% }
+
+<figure>
+  <img src="/resources/data_collection_system.png" alt="data_collection_system"/>
+</figure>
 
 <center>데이터셋이 수집된 아파트의 평면도와 수집 촬영 장치의 구성</center>
 
