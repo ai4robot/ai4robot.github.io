@@ -22,7 +22,7 @@ toc: true
 
 ## 소개
 
-![data-samples](/resources/data-samples.png){ width=80% }
+<p><img src="/resources/data-samples.png" alt="data-samples" width="80%"/></p>
 
 <center>[그림1] 본 데이터셋에 포함된 샘플 데이터를 보여준다. 첫 번째 행은 RGB 비디오에서 추출한 샘플 프레임을 보여준 다. 두 번째 행은 각 샘플 프레임에 대응되는 깊이영상, 비디인덱스, 관절의 위치를 보여준다. 휴먼이 행하는 행동은 왼쪽부터 “포크로 음식 집어 먹기”, “진공청소기 사용하기”, “이불 펴고 개기”, “손빨래 하기”, “빨래 널기”, “악수하기” 이다.</center>
 
