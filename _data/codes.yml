@@ -1,4 +1,18 @@
 main:
+  - title: "Clothing-MA 외형특징 인식"
+    body: "Clothing-MA detects and recognizes multiple human attributes, which is especially trained using older people dataset."
+    image : "/assets/clothing_ma.jpg"
+    link:
+      - name: "Repository"
+        url: "https://github.com/ai4r/Air-Clothing-MA"
+
+  - title: "AIR Action Recognition 일상행동 인식"
+    body: "Daily activity detection and recognition"
+    image : "/assets/action_recognition.jpg"
+    link:
+      - name: "Repository"
+        url: "https://github.com/ai4r/AIR-Action-Recognition"
+
   - title: "Youtube Gesture Dataset Scripts"
     body: "It provides scripts to build Youtube Gesture Dataset. You can download Youtube videos and transcripts, divide the videos into scenes, and extract human poses with this software."
     image : "/assets/cospeech_gesture.jpg"
@@ -6,7 +20,7 @@ main:
       - name: "Repository"
         url: "https://github.com/youngwoo-yoon/youtube-gesture-dataset"
 
-  - title: "Human Detector/Tracker"
+  - title: "Human Detector/Tracker 사람 검출/추적"
     body: "A robust human detection and tracking for home environment, forked from Darkflow project(https://github.com/thtrieu/darkflow)."
     image : "/assets/human_tracker.png"
     link:
