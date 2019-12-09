@@ -27,6 +27,13 @@ main:
       - name: "Link"
         url: "https://github.com/ai4r/KETI-actiondetection"
 
+  - title: "고령자 교류행위 데이터셋"
+    body: "고령자 교류행위 데이터셋은 인간-인간의 사회적 상호작용에서 교류행위 시점을 인식하기 위한 데이터셋이다. 특히, 고령자를 대상으로 1인칭 시점의 다양한 대화(여행, 건강, 취미 등) 주제를 포함해 세션당 20분 정도의 대화 영상과 음성을 수집한 데이터이다."
+    image : "/assets/elderly_interpersonal_communication_dataset.png"
+    link:
+      - name: "Link (회원등록 필요)"
+        url: "http://nanum.etri.re.kr:8080/etriPortal/share/view?id=31"
+
 search: false
 categories: 
   - Jekyll
