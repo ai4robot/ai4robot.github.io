@@ -41,6 +41,13 @@ main:
       - name: "Link"
         url: "https://github.com/ai4r/AIR-Act2Act"
 
+  - title: "ADL Intentions of the Eldely Dataset (SSU_IntentionDataset)"
+    body: "This repository contains dataset to build the activity intention model of the elderly."
+    image : "/assets/ssu_intentiondataset.png"
+    link:
+      - name: "Link"
+        url: "https://github.com/ai4r/SSU_IntentionDataSet"
+
 search: false
 categories: 
   - Jekyll
