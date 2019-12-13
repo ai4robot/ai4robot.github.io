@@ -6,12 +6,12 @@ main:
       - name: "Link"
         url: "https://ai4robot.github.io/etri-activity3d/"
 
-  - title: "MINDsLab-ETRI VOTE150 고령자 음성인식용 대용량 음성 데이터셋"
+  - title: "MINDsLab-ETRI VOTE400 고령자 음성인식용 대용량 음성 데이터셋"
     body: "A Large-Scale Korean Elderly-Voice Dataset for Speech Recognition 고령자 특화 음성인식용 대용량 고령자 대화체 발화 음성 데이터셋"
-    image : "/assets/vote150.png"
+    image : "/assets/vote400.png"
     link:
       - name: "Link"
-        url: "https://ai4robot.github.io/mindslab-etri-vote150/"
+        url: "https://ai4robot.github.io/mindslab-etri-vote400/"
 
   - title: "Youtube TED Dataset"
     body: "A collection of human pose data for 1,766 TED video clips collected from Youtube. The average length of the clips is 12.7 minutes and the total number of frames is 35,685. This human pose dataset was used to train AI to generate co-speech gestures from speech texts."
