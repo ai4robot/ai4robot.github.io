@@ -1,5 +1,5 @@
 ---
-permalink: /mindslab-etri-vote150/
+permalink: /mindslab-etri-vote400/
 layout: splash
 title: MINDsLab-ETRI VOTE400(Voices Of The Elders 400 Hours) Dataset
 header:
@@ -28,7 +28,7 @@ MINDsLab-ETRI VOTE400은 고령자와 로봇 간 원활한 음성 교류를 가�
 
 <figure>
   <img src="/assets/vote150_stat.png" alt="VOTE150 원시 음성데이터 수집 지역과 참여자 통계"/>
-  <figcaption>[그림1] VOTE400 원시 음성데이터 수집 지역과 참여자 통계</figcaption>
+  <figcaption>[그림1] VOTE400 원시 대화체 음성데이터 수집 지역과 참여자 통계</figcaption>
 </figure>
 
 원시 음성데이터를 가공 정제하여 최종적으로 **300시간의 학습데이터를 확보**하였다. 학습데이터는 전사 후 1차, 2차 검수의 다단계 검증을 통해 높은 품질과 일관성을 확보하였다. 
