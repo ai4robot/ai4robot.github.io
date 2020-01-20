@@ -49,7 +49,7 @@ toc: true
 
 본 데이터셋의 샘플 영상을 아래 링크에서 다운받아 볼 수 있다.
 
-* [ETRI-Activity3D_Samples](https://drive.google.com/open?id=1QTcChjPZLkorkxEiMvTxH-IHx6wKAJ_O)
+* [ETRI-Activity3D_Samples](https://drive.google.com/open?id=1bdQFUpY6jvQ8L-G0EOibV_2daRJLAx88)
 
 기존 데이터셋과 비교한 본 데이터셋만의 고유한 특징은 다음과 같다.
 
@@ -71,7 +71,7 @@ toc: true
 
 |  Collected Data   | Resolution | File Format |       Size |
 | :---------------: | :--------: | :---------: | ---------: |
-|    RGB Videos     | 1920x1080  |     AVI     |     2.33TB |
+|    RGB Videos     | 1920x1080  |     MP4     |     2.33TB |
 | Depth Map Frames  |  512x424   |     PNG     |     4.08TB |
 | Body Index Frames |  512x424   |     PNG     |    42.60GB |
 | 3D Skeletal Data  | 25 joints  |     CSV     |    20.83GB |
@@ -91,13 +91,9 @@ toc: true
 
 ## 다운로드
 
-데이터셋의 사용을 위해서는 사용허가 협약서의 내용을 숙지하시고 협약에 동의하셔야 합니다.
+아래의 문서를 확인하여 다운로드 바랍니다.
 
-동의를 하신다면 아래 사용허가협약서에 협약자 정보를 기입하신 후에 스캔한 PDF 문서를 아래 안내해 드리는 담당자에게 이메일로 보내주시기 바랍니다. 
-
-협약자 정보에 문제가 없을 경우에 본 데이터셋을 제공합니다.
-
-* **사용허가협약서** [다운로드](/resources/EULA_ETRIActivity3D.pdf)
+* **가이드라인** [다운로드](/resources/guideline.pdf)
 
 ## 담당자 연락처
 
