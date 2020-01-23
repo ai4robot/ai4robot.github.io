@@ -10,7 +10,6 @@ last_modified_at: 2019-11-16T20:23:03-05:00
 toc: true
 ---
 
-ETRI-Activity3D 
 A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activity of The Elderly
 
 ## Background
@@ -25,13 +24,13 @@ A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activity of The Elderl
   <figcaption>[Figure 1] Sample frames from daily actions in the proposed dataset are displayed together with the corresponding depth map and skeleton information obtained from Kinect v2 sensors. Actions (from left to right): eating food with a fork, vacuuming the floor, spreading bedding, washing a towel by hands, hanging out laundry, hand shaking.</figcaption>
 </figure>
 
-&emsp;&emsp;To solve the shortage of datasets, we collect and release the first large-scale RGB-D dataset of daily activity of the elderly for human care robots: ETRI-Activity3D
+&emsp;&emsp;To solve the shortage of datasets, we collect and release the first large-scale RGB-D dataset of daily activity of the elderly for human care robots: ETRI-Activity3D.
 <br>&emsp;&emsp; The dataset is collected by Kinect v2 sensors and consists of three synchronized data modalities: RGB videos, depth maps, and skeleton sequences. To shoot visual data, 50 elderly people are recruited. The elderly subjects are in a wide range of ages from 64 to 88, which lead to a realistic intra-class variation of the actions. In addition, we acquire a dataset for 50 young people in their 20s in the same way as older people. Finally, 112,620 sets of 3D data were obtained.
 <br>&emsp;&emsp;We hope that the proposed dataset, which comprehensively considers the elderly, the robots and the environment in which they interact, can contribute to the advancement of robot intelligence.
 
 
 | Item                    | Contents                                                          |
-| ----------------------- | ----------------------------------------------------------------- |
+| :---------------------: | :---------------------------------------------------------------: |
 | Number of samples       | 112,620                                                           |
 | Number of action classes| 55                                                                |
 | Number of subjects      | 100 (50 old people, 50 young people)                              |

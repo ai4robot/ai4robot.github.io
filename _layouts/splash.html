@@ -2,18 +2,23 @@
 layout: default
 ---
 <style>
-h2{
-  font-weight: bold;
-  margin-top: 50px;
-}
-h3{
-  font-size: 1em;
-}
-.page__content > li{
-  font-size: 1.25em;
-}
-
-
+  h2{
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  h3{
+    font-size: 1em;
+  }
+  .page__content > li{
+    font-size: 1.25em;
+  }
+  table{
+    margin-left: auto; margin-right: auto;
+    display: table;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 </style>
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
