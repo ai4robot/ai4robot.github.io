@@ -49,7 +49,7 @@ toc: true
 
 본 데이터셋의 샘플 영상을 아래 링크에서 다운받아 볼 수 있다.
 
-* [ETRI-Activity3D_Samples](https://drive.google.com/open?id=1bdQFUpY6jvQ8L-G0EOibV_2daRJLAx88)
+* [ETRI-Activity3D_Samples](https://drive.google.com/open?id=1bdQFUpY6jvQ8L-G0EOibV_2daRJLAx88){: target="_blank" }
 
 기존 데이터셋과 비교한 본 데이터셋만의 고유한 특징은 다음과 같다.
 
@@ -93,7 +93,7 @@ toc: true
 
 아래의 문서를 확인하여 다운로드 바랍니다.
 
-* **가이드라인** [다운로드](/resources/guideline.pdf)
+* **가이드라인** [다운로드](/resources/guideline.pdf){: target="_blank" }
 
 ## 담당자 연락처
 

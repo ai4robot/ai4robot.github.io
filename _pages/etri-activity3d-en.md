@@ -40,7 +40,7 @@ A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activity of The Elderl
 
 Sample videos of our dataset can be downloaded from the link below.
 
-[**Download samples**](https://drive.google.com/open?id=19hgw-kp2qM0rs4-KoaR8Ou8xrjgiQOoD)
+[**Download samples**](https://drive.google.com/open?id=19hgw-kp2qM0rs4-KoaR8Ou8xrjgiQOoD){: target="_blank" }
 
 Unique characteristics and advantages of the proposed dataset over the existing ones are as follows.
 
@@ -117,7 +117,7 @@ Preprint: [[arXiv]](https://arxiv.org/abs/1810.12541)
 ## Download
 In order to use the dataset, you must be familiar with the EULA(End User License Agreement) and agree to the agreement. Please e-mail the scanned PDF document to the person in charge after you fill out the agreement information. We will provide you with a way to download this dataset if there is no problem with the EULA.
 
-* [Download EULA](/resources/EULA_ETRIActivity3D_en.pdf)
+* [Download EULA](/resources/EULA_ETRIActivity3D_en.pdf){: target="_blank" }
 
 ## Contact
 Please email dhkim008@etri.re.kr if you have any questions or comments.
