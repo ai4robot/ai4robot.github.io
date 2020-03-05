@@ -104,20 +104,18 @@ Unique characteristics and advantages of the proposed dataset over the existing 
 
 <figure>
   <img src="/resources/data_collection_system_en.png" alt="data_collection_system"/>
-  <figcaption>[Figure 2] Configuration of the data acquisition system.</figcaption>
+  <figcaption>[Figure 2] Layout of the rooms and configuration of the data acquisition system</figcaption>
 </figure>
 
 
 ## Publications 
-<!-- 임시 URL -->
-Preprint: [[arXiv]](https://arxiv.org/abs/1810.12541)
+All documents and papers that report on research that uses the ETRI-Activity3D dataset should cite the following paper:
 
-
+Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly,” arXiv:2003.01920
 
 ## Download
-In order to use the dataset, you must be familiar with the EULA(End User License Agreement) and agree to the agreement. Please e-mail the scanned PDF document to the person in charge after you fill out the agreement information. We will provide you with a way to download this dataset if there is no problem with the EULA.
-
-* [Download EULA](/resources/EULA_ETRIActivity3D_en.pdf){: target="_blank" }
+Please follow the link below, and join as a member to get to the download page:
+* http://nanum.etri.re.kr:8080/etriPortal/login?language=en
 
 ## Contact
 Please email dhkim008@etri.re.kr if you have any questions or comments.
