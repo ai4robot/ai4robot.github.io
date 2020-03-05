@@ -10,7 +10,7 @@ last_modified_at: 2019-11-16T20:23:03-05:00
 toc: true
 ---
 
-A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activity of The Elderly
+A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of The Elderly
 
 ## Background
 &emsp;&emsp; As part of the solutions to an aging society, research on elder care robots has been actively carried out around the world. In order for robots to understand the elderly and provide context-sensitive services, robotic intelligence technologies that can identify various human attributes is essential. Among them, action recognition is a fundamental technology to understand the intentions of human behavior and grasp the daily life patterns of human users. 

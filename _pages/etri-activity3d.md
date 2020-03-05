@@ -89,6 +89,11 @@ toc: true
   <figcaption>[그림2] 데이터셋이 수집된 아파트의 평면도와 수집 촬영 장치의 구성</figcaption>
 </figure>
 
+## 참조
+본 데이터셋을 참조하거나 활용하시는 경우 아래의 논문을 인용해 주시기 바랍니다.
+
+Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly,” arXiv:2003.01920
+
 ## 다운로드
 
 아래의 문서를 확인하여 다운로드 바랍니다.
