@@ -55,7 +55,7 @@ Unique characteristics and advantages of the proposed dataset over the existing 
 &emsp;&emsp;A closer understanding of what older people actually do in their daily lives is important for determining practical action categories. We visit the homes of 53 elderly people over the age of 70 and carefully monitor and document their daily behavior from morning to night. Based on the most frequent behaviors observed, 55 action classes are defined. 
 
 
-|  ID | Action descripction                                        | ID |       Action descripction                     | 
+|  ID | Action descripction                                        | ID |       Action descripction                     |
 | :--:| :---------------------------------------------------------:| :-:| :-------------------------------------------: |
 |  1  | eating  food with a fork                                   | 29 |     hanging  out laundry                      |
 |  2  |  pouring  water into a cup                                 | 30 |    looking  around for something              |
@@ -115,7 +115,7 @@ Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim,
 
 ## Download
 Please follow the link below, and join as a member to get to the download page:
-* http://nanum.etri.re.kr:8080/etriPortal/login?language=en
+* [http://nanum.etri.re.kr:8080/etriPortal/login?language=en](http://nanum.etri.re.kr:8080/etriPortal/login?language=en)
 
 ## Contact
 Please email dhkim008@etri.re.kr if you have any questions or comments.
