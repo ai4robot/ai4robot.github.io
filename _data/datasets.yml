@@ -40,8 +40,10 @@ main:
     body: "A dataset of nonverbal human-human interactions. This dataset can be used for training robots nonverbal interaction behaviors. The dataset has 5,000 interaction samples of 10 interaction classes: bow, handshake, hit, etc."
     image : "/assets/act2act_dataset.png"
     link:
-      - name: "Link"
-        url: "https://github.com/ai4r/AIR-Act2Act"
+      - name: "kor"
+        url: "/air-act2act/"
+      - name: "eng"
+        url: "/air-act2act-en/"
 
   - title: "ADL Intentions of the Eldely Dataset (SSU_IntentionDataset)"
     body: "This repository contains dataset to build the activity intention model of the elderly."
