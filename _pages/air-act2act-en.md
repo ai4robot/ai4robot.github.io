@@ -12,9 +12,9 @@ toc: true
 
 ## Human-Human Interaction Dataset for Training Robots Nonverbal Interaction Behaviors
 
-### Introduction
+## Introduction
 
-To better interact with users, a social robot should understand the user behavior, infer the intention, and respond appropriately. Machine learning is one way of implementing robot intelligence. It provides the ability to automatically learn and improve from experience instead of explicitly telling the robot what to do. Social skills can also be learned through watching human-human interaction videos. However, human-human interaction datasets are relatively scarce to learn interactions that occur in various situations. Moreover, we aim to use service robots in the elderly-care domain; however, there has been no interaction dataset collected for this domain. For this reason, we introduce a human-human interaction dataset for teaching non-verbal social behaviors to robots. The sample data can be downloaded below and the python scripts to view sample data are available for download at https://github.com/ai4r/AIR-Act2Act.
+To better interact with users, a social robot should understand the user behavior, infer the intention, and respond appropriately. Machine learning is one way of implementing robot intelligence. It provides the ability to automatically learn and improve from experience instead of explicitly telling the robot what to do. Social skills can also be learned through watching human-human interaction videos. However, human-human interaction datasets are relatively scarce to learn interactions that occur in various situations. Moreover, we aim to use service robots in the elderly-care domain; however, there has been no interaction dataset collected for this domain. For this reason, we introduce a human-human interaction dataset for teaching non-verbal social behaviors to robots. The sample data can be downloaded below and the python scripts to view sample data are available for download at [https://github.com/ai4r/AIR-Act2Act](https://github.com/ai4r/AIR-Act2Act).
 
 Our dataset has the following strengths:
 
@@ -23,7 +23,7 @@ Our dataset has the following strengths:
 - It is one of the largest interaction datasets that provides 3D skeletal data;
 - It can be used to not only teach social skills to robots but also benchmark action recognition algorithms.
 
-### Dataset Summary
+## Dataset Summary
 
 |Item|Description|
 |:--- |:--- |
@@ -34,7 +34,7 @@ Our dataset has the following strengths:
 |Data modalities|RGB video, depth map, body index, 3D skeleton, Robotic data|
 |Sensor|Kinect v2|
 
-### Interaction Scenarios
+## Interaction Scenarios
 
 We asked participants to perform each scenario five times. Each interaction scenario is defined as a pair of coordinated behaviors: an initiating behavior performed by an elderly person (E), and a responsive behavior performed by a partner (R). The initiating behaviors consisted of eight greeting behaviors and an additional two behaviors of high-five and hit. The responsive behaviors were designed so that, when performed by service robots, they would be acceptable to people as natural and humble reactions. Since we did not instruct the participants to act in an exact pattern, there were large variations in intra-class action trajectories.
 
@@ -51,17 +51,19 @@ We asked participants to perform each scenario five times. Each interaction scen
 |9|E: beckons to go away.<br>R: turns back and leaves the service area.|
 |10|E: turns back and walks to the door. <br>R: bows to the elderly person.|
 
-### Collection Setup
+## Collection Setup
 
 Our interaction data were collected in an apartment and a senior welfare center where service robots are likely to be used. For each scenario, three cameras were set up at the same height; however, were positioned to capture different views. Two cameras were placed next to each person to capture the behaviors from the point of view of the other person. The last camera was placed in a position where both participants were visible in order to gather information of the participants relative to each other. The position of each camera was adjusted each time to take into consideration the movement range of the participants. In total, the entire dataset has 5,000 interaction samples with three different views, where each view lasts for about 6 s.
 
 - The apartment environment
-<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400">
+
+<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400"/>
 
 - The senior welfare center environment
-<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400">
 
-### Collected Data
+<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400"/>
+
+## Collected Data
 
 |Data Modality|Resolution|File Format|<center>Size</center>|
 |:---: |:---: |:---: |---: |
@@ -72,22 +74,22 @@ Our interaction data were collected in an apartment and a senior welfare center 
 |Robotic data|10 joint angles|JSON|47.0 MB|
 |||**Total**|521.88 GB|
 
-### Publication
+## Publication
 
 All documents and papers that report on research that uses the AIR-Act2Act dataset should cite the following paper:
 
 Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim,“AIR-Act2Act: Human-human interaction dataset for teaching non-verbal social behaviors to robots," The International Journal of Robotics Research (IJRR), *submitted*.
 
-### Download
+## Download
 
 Please follow the link below, and join as a member to get to the download page:
 - [http://nanum.etri.re.kr:8080/etriPortal/login?language=en](http://nanum.etri.re.kr:8080/etriPortal/login?language=en)
 
-### Contact
+## Contact
 
 Please email wrko@etri.re.kr if you have any questions or comments.
 
-### Acknowledgment
+## Acknowledgment
 
 The protocol and consent of data collection were approved by the Institutional Review Board (IRB) at Suwon Science College, our joint research institute.
 
