@@ -10,7 +10,7 @@ last_modified_at: 2020-07-13T14:23:03-05:00
 toc: true
 ---
 
-## Human-Human Interaction Dataset for Training Robots Nonverbal Interaction Behaviors
+This page introduces Act2Act dataset, a short name for Human-Human Interaction Dataset for Training Robots Nonverbal Interaction Behaviors.
 
 ## Introduction
 
