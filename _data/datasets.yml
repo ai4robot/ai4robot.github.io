@@ -1,10 +1,58 @@
 main:
+  - title: "ETRI-Activity3D"
+    body: "A Large-Scale RGB-D Dataset for Elderly People's Daily Activity Recognition 로봇환경에서 고령자의 일상행동 인식을 위한 3D 영상 데이터셋으로 총 100명의 참여자로부터 55개 행동을 대상으로 수집한 11만여개의 RGB-D 데이터로 구성되어 있다."
+    image : "/resources/etri_activity3d.png"
+    link:
+      - name: "kor"
+        url: "/etri-activity3d/"
+      - name: "eng"
+        url: "/etri-activity3d-en/"
+
+  - title: "MINDsLab-ETRI VOTE400 고령자 음성인식용 대용량 음성 데이터셋"
+    body: "A Large-Scale Korean Elderly-Voice Dataset for Speech Recognition 고령자 특화 음성인식용 대용량 고령자 대화체 발화 음성 데이터셋"
+    image : "/assets/vote400.png"
+    link:
+      - name: "Link"
+        url: "https://ai4robot.github.io/mindslab-etri-vote400/"
+
   - title: "Youtube TED Dataset"
     body: "A collection of human pose data for 1,766 TED video clips collected from Youtube. The average length of the clips is 12.7 minutes and the total number of frames is 35,685. This human pose dataset was used to train AI to generate co-speech gestures from speech texts."
-    image : "/assets/air.png"
+    image : "/assets/youtube_dataset.png"
     link:
       - name: "Link"
         url: "https://github.com/youngwoo-yoon/youtube-gesture-dataset"
+
+  - title: "KETI EMG/IMU Action Dataset"
+    body: "A dataset for action detection recorded using Myo Arm band, which includes EMG/IMU signals. The dataset includes 55 daily actions."
+    image : "/assets/myarmband2.png"
+    link:
+      - name: "Link"
+        url: "https://github.com/ai4r/KETI-actiondetection"
+
+  - title: "E-MIC(Elderly Multimodal Interpersonal Communication) Dataset 고령자 교류행위 데이터셋"
+    body: "고령자 교류행위 데이터셋은 인간-인간의 사회적 상호작용에서 교류행위 시점을 인식하기 위한 데이터셋이다. 특히, 고령자를 대상으로 1인칭 시점의 다양한 대화(여행, 건강, 취미 등) 주제를 포함해 세션당 20분 정도의 대화 영상과 음성을 수집한 데이터이다."
+    image : "/assets/elderly_interpersonal_communication_dataset.png"
+    link:
+      - name: "kor"
+        url: "/emic/"
+      - name: "eng"
+        url: "/emic-en/"
+
+  - title: "Act2Act Dataset"
+    body: "A dataset of nonverbal human-human interactions. This dataset can be used for training robots nonverbal interaction behaviors. The dataset has 5,000 interaction samples of 10 interaction classes: bow, handshake, hit, etc."
+    image : "/assets/act2act_dataset.png"
+    link:
+      - name: "kor"
+        url: "/air-act2act/"
+      - name: "eng"
+        url: "/air-act2act-en/"
+
+  - title: "ADL Intentions of the Eldely Dataset (SSU_IntentionDataset)"
+    body: "This repository contains dataset to build the activity intention model of the elderly."
+    image : "/assets/ssu_intentiondataset.png"
+    link:
+      - name: "Link"
+        url: "https://github.com/ai4r/SSU_IntentionDataSet"
 
 search: false
 categories: 
