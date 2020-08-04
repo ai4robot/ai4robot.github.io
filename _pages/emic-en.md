@@ -14,7 +14,9 @@ toc: true
 
 Elderly Multimodal Interpersonal Conversation Dataset (E-MIC Dataset) is a dataset built to recognize the timing of turn-taking in human-human social interaction. We collected interpersonal conversational interaction data, including video and audio, from 100 elderly people.
 
-![Fig 1_dataset](/assets/emic_dataset.png)[Figure 1] Samples of timing recognition data set for elderly interaction activities
+| ![Fig 1_dataset](/assets/emic_dataset.png) |
+| ------------------------------------------ |
+| [Figure 1] Samples of E-MIC dataset        |
 
 - The subjects are 100 elderly people over the age of 65 (66 women and 34 men, 65~ 85 years old).
 - We collected RGB image data with two cameras and audio data with two microphones.
@@ -37,7 +39,9 @@ We annotated 19 types of information (e.g., take, release, wait, hold, gaze, bac
 The E-MIC dataset used the annotation tool ELAN (https://tla.mpi.nl/tools/tla-tools/elan/download/)) to generate annotations about images and audios.
 Annotation information can be edited through the .eaf file included in this dataset and exported (export) in various forms of file (XML, CSV, etc.)
 
-![Fig 2_annotation](/assets/emic_annotation.png)[Figure 2]  Sample of annotation of the collected video and audio clip
+| ![Fig 2_annotation](/assets/emic_annotation.png)             |
+| ------------------------------------------------------------ |
+| [Figure 2]  Sample of annotation of the collected video and audio clip |
 
 ## Collected Data
 
@@ -51,7 +55,9 @@ Annotation information can be edited through the .eaf file included in this data
 
 We collected interpersonal conversational interaction data, including video and audio, from 100 elderly people. Figure 3 shows the data collection environment. Participants wear microphones, sit facing each other, and have conversations.
 
-![Fig 3_setup](/assets/emic_setup.png)[Figure 3]  The data collection setup environment: (left) participants wear microphones, sit facing each other, and have conversations.
+| ![Fig 3_setup](/assets/emic_setup.png)                       |
+| ------------------------------------------------------------ |
+| [Figure 3]  The data collection setup environment: (left) participants wear microphones, sit facing each other, and have conversations |
 
 ## Download
 
