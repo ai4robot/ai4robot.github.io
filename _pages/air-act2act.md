@@ -57,11 +57,11 @@ toc: true
 
 - 아파트 환경
 
-<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400"/>
+<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400"/>
 
 - 노인복지관 환경
 
-<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400"/>
+<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400"/>
 
 ### 수집 데이터
 
@@ -78,7 +78,7 @@ toc: true
 
 본 데이터셋을 참조하거나 활용하시는 경우 아래의 논문을 인용해 주시기 바랍니다.
 
-Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim,“AIR-Act2Act: Human-human interaction dataset for teaching non-verbal social behaviors to robots," The International Journal of Robotics Research (IJRR), *submitted*.
+Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim, "AIR-Act2Act: Human-human interaction dataset for teaching non-verbal social behaviors to robots," arXiv preprint arXiv:2009.02041, 2020. [arxiv](https://arxiv.org/abs/2009.02041)
 
 ## 다운로드
 
