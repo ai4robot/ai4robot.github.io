@@ -57,11 +57,11 @@ Our interaction data were collected in an apartment and a senior welfare center 
 
 - The apartment environment
 
-<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400"/>
+<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400"/>
 
 - The senior welfare center environment
 
-<img src="http://drive.google.com/uc?export=view&id=1fpmmt8Spu6Wj4UZ83Y3h0Vk_5ZxPNqZw" width="400"/>
+<img src="http://drive.google.com/uc?export=view&id=1zw33eItZ9xfkwKcP6V6gQLWNmmpAGioT" width="400"/>
 
 ## Collected Data
 
@@ -78,7 +78,7 @@ Our interaction data were collected in an apartment and a senior welfare center 
 
 All documents and papers that report on research that uses the AIR-Act2Act dataset should cite the following paper:
 
-Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim,“AIR-Act2Act: Human-human interaction dataset for teaching non-verbal social behaviors to robots," The International Journal of Robotics Research (IJRR), *submitted*.
+Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim, "AIR-Act2Act: Human-human interaction dataset for teaching non-verbal social behaviors to robots," arXiv preprint arXiv:2009.02041, 2020. [arxiv](https://arxiv.org/abs/2009.02041)
 
 ## Download
 
