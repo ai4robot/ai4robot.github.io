@@ -83,7 +83,7 @@ Woo-Ri Ko, Minsu Jang, Jaeyeon Lee and Jaehong Kim, "AIR-Act2Act: Human-human in
 ## 다운로드
 
 아래 링크를 따라 회원으로 가입하여 다운로드 페이지로 이동하시기 바랍니다.
-- [http://nanum.etri.re.kr:8080/etriPortal/login?language=en](http://nanum.etri.re.kr:8080/etriPortal/login?language=en)
+- [http://nanum.etri.re.kr:8080](http://nanum.etri.re.kr:8080)
 
 ## 담당자 연락처
 

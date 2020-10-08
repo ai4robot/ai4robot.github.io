@@ -68,7 +68,7 @@ toc: true
 본 데이터셋은 아래 사이트에서 사용허가협약서에 동의하시고 승인을 받으신 후 다운로드 가능합니다.
 
 - **회원 가입 후 다운로드**
-  - [링크] http://nanum.etri.re.kr:8080/etriPortal/share/view?id=31
+  - [http://nanum.etri.re.kr:8080/share/bettle/old_multi_modal](http://nanum.etri.re.kr:8080/share/bettle/old_multi_modal)
 
 ## 담당자 연락처
 
