@@ -57,7 +57,6 @@ Our interaction data were collected in an apartment and a senior welfare center 
 
 - The apartment environment
 
-![Fig 3_setup](/assets/act2act_testbed.png)
 <img src="/assets/act2act_testbed.png" width="400"/>
 
 - The senior welfare center environment
