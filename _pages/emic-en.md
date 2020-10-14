@@ -63,7 +63,7 @@ We collected interpersonal conversational interaction data, including video and 
 
 Please follow the link below, and join as a member to get to the download page:
 
-- [http://nanum.etri.re.kr:8080/?lang=En_us](http://nanum.etri.re.kr:8080/?lang=En_us)
+- [http://nanum.etri.re.kr:8080/share/list?lang=En_us](http://nanum.etri.re.kr:8080/share/list?lang=En_us)
 
 ## Contact
 
