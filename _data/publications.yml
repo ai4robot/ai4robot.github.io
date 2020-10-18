@@ -11,7 +11,7 @@ main:
       - title: "C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement "
         author: "T. Kim and J. -H. Lee"
         academy: "2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8425-8432, doi: 10.1109/ICRA40945.2020.9196948."
-        image:
+        image: "/assets/c3po.png"
         link:
           - name: "link"
           - url: "https://ieeexplore.ieee.org/abstract/document/9196948"
