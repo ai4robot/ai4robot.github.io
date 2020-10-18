@@ -1,6 +1,18 @@
 main:
   - title: "International Conferences/Journals"
     journal:
+      - title: "Deep neural networks with a set of node-wise varying activation functions"
+        author: "Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang"
+        academy: Neural Networks (2020)
+        link:
+          - name: "link"
+          - url: "https://doi.org/10.1016/j.neunet.2020.03.004"
+      - title: "C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement "
+        author: "T. Kim and J. -H. Lee"
+        academy: "2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8425-8432, doi: 10.1109/ICRA40945.2020.9196948."
+        link:
+          - name: "link"
+          - url: "https://ieeexplore.ieee.org/abstract/document/9196948"
       - title: "Older Adults Living With Social Robots: Promoting Social Connectedness in Long-Term Communities"
         author: "A. K. Ostrowski, D. DiPaola, E. Partridge, H. W. Park and C. Breazeal"
         academy: "IEEE Robotics & Automation Magazine, vol. 26, no. 2, pp. 59-70, June 2019. doi: 10.1109/MRA.2019.2905234, "
