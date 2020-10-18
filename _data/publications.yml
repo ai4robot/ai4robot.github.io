@@ -3,7 +3,7 @@ main:
     journal:
       - title: "Deep neural networks with a set of node-wise varying activation functions"
         author: "Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang"
-        academy: Neural Networks (2020)
+        academy: "Neural Networks (2020)"
         image:
         link:
           - name: "link"
