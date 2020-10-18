@@ -4,12 +4,14 @@ main:
       - title: "Deep neural networks with a set of node-wise varying activation functions"
         author: "Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang"
         academy: Neural Networks (2020)
+        image:
         link:
           - name: "link"
           - url: "https://doi.org/10.1016/j.neunet.2020.03.004"
       - title: "C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement "
         author: "T. Kim and J. -H. Lee"
         academy: "2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020, pp. 8425-8432, doi: 10.1109/ICRA40945.2020.9196948."
+        image:
         link:
           - name: "link"
           - url: "https://ieeexplore.ieee.org/abstract/document/9196948"
@@ -20,7 +22,7 @@ main:
         link:
           - name: "link"
             url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8703390&isnumber=8735986&tag=1"
-      - title: "2019. Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots."
+      - title: "Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots."
         author: "Yoon, Y., Ko, W.R., Jang, M., Lee, J., Kim, J. and Lee, G."
         academy: "Proc. of The International Conference in Robotics and Automation (ICRA 2019)."
         image : "/assets/cospeech_gesture.jpg"
