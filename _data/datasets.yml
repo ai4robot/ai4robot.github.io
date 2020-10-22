@@ -15,6 +15,13 @@ main:
       - name: "link"
         url: "/etri-activity3d-livinglab/"
 
+  - title: "ElderSim / KIST ElderSim"
+    body: "Synthetic Action Simulation Platform for Elderly Action Data Generation"
+    image : "/assets/eldersim-thumbnail.png"
+    link:
+      - name: "link"
+        url: "/ElderSim/"
+
   - title: "MINDsLab-ETRI VOTE400 고령자 음성인식용 대용량 음성 데이터셋"
     body: "A Large-Scale Korean Elderly-Voice Dataset for Speech Recognition 고령자 특화 음성인식용 대용량 고령자 대화체 발화 음성 데이터셋"
     image : "/assets/vote400.png"
