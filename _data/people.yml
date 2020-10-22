@@ -19,7 +19,7 @@
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra"
-      - name: "Sungwoo Park" 
+      - name: "Sungwoo Park (Alumni)" 
         position: ""
         research: "Facial Attributes Recognition"
         image : "/assets/sungwoo.jpg"
@@ -64,7 +64,7 @@
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?hl=en&user=f529BfkAAAAJ"
-      - name: "Taewoo Kim"
+      - name: "Taewoo Kim (Alumni)"
         position: ""
         research: "Reinforcement Learning-based Social Behavior Imitation" 
       - name: "Bok, Cha"
@@ -86,6 +86,14 @@
       - name: "Dae-Ha Lee"
         position: ""
         research: "Robot System Integration, Social Human-Robot Interaction Framework"
+      - name: "Hyung Min Kim"
+        position: ""
+        research: ""
+        image : "/assets/hyungmin_kim.jpg"
+      - name: "Ho Beom Jeon"
+        position: ""
+        research: ""
+        image : "/assets/hobeom_Jeon.jpg"
   - department: "Korea Advanced Institute of Science and Technology, South Korea"
     child: 
       - name: "Hyunseung Yang"
@@ -172,13 +180,3 @@
         link:
           - name: "google scholar"
             url: "https://scholar.google.com/citations?user=qb3jyP4AAAAJ"
-  - department: "University of Science & Technology"
-    child:
-      - name: "Hyung Min Kim"
-        position: ""
-        research: ""
-        image : "/assets/hyungmin_kim.jpg"
-      - name: "Ho Beom Jeon"
-        position: ""
-        research: ""
-        image : "/assets/hobeom_Jeon.jpg"
