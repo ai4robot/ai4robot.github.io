@@ -93,7 +93,7 @@
       - name: "Ho Beom Jeon"
         position: ""
         research: ""
-        image : "/assets/hobeom_Jeon.jpg"
+        image : "/assets/hobeom_jeon.jpg"
   - department: "Korea Advanced Institute of Science and Technology, South Korea"
     child: 
       - name: "Hyunseung Yang"
