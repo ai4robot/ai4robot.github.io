@@ -19,13 +19,10 @@
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?user=zrcNPdgAAAAJ&hl=en&oi=sra"
-<<<<<<< HEAD
       - name: "Sungwoo Park (Alumni)" 
         position: ""
         research: "Facial Attributes Recognition"
         image : "/assets/sungwoo.jpg"
-=======
->>>>>>> origin
       - name: "Chankyu Park" 
         position: ""
         research: "Human Attributes Recognition"
@@ -67,12 +64,9 @@
         link:
           - name: "google scholar"
             url: "https://scholar.google.co.kr/citations?hl=en&user=f529BfkAAAAJ"
-<<<<<<< HEAD
       - name: "Taewoo Kim (Alumni)"
         position: ""
         research: "Reinforcement Learning-based Social Behavior Imitation" 
-=======
->>>>>>> origin
       - name: "Bok, Cha"
         position: "" 
         research: "VR/AR for Human-Robot Interaction"
