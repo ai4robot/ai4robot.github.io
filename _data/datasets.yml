@@ -15,7 +15,7 @@ main:
       - name: "link"
         url: "/etri-activity3d-livinglab/"
 
-  - title: "ElderSim / KIST ElderSim"
+  - title: "KIST ElderSim / SynADL"
     body: "Synthetic Action Simulation Platform for Elderly Action Data Generation"
     image : "/assets/eldersim-thumbnail.png"
     link:
