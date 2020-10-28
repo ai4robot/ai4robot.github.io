@@ -1,7 +1,7 @@
 ---
 permalink: /ElderSim/
 layout: splash
-title: ElderSim / KIST ElderSim
+title: KIST ElderSim / SynADL
 header:
   overlay_color: rgba(23,165,137, 0.5)
   overlay_filter: rgba(255, 0, 0, 0.3)
@@ -14,7 +14,7 @@ toc: true
   
 The world's elderly population growth emphasizes the necessity of eldercare technologies and underlines the role of action recognition tasks to comprehend elders' activities of daily living. However, most public datasets used in human action recognition either differ from or have limited coverage of elders' activities in many aspects. Moreover, data acquisition of elders’ ADL is challenging due to the privacy and physical limitations of the elderly.  
 
-We introduce **<font color='#644ca5'>ElderSim</font>**, a synthetic action simulation platform that can generate synthetic data on elders' daily activities. For 55 kinds of frequent daily activities of the elders, ElderSim generates realistic motions of synthetic characters with several customizable data-generating options and provides several output modalities. We also provide the **<font color='#c27ba0'>KIST ElderSim</font>** dataset which is generated from our simulation platform.
+We introduce **<font color='#644ca5'>KIST ElderSim</font>**, a synthetic action simulation platform that can generate synthetic data on elders' daily activities. For 55 kinds of frequent daily activities of the elders, ElderSim generates realistic motions of synthetic characters with several customizable data-generating options and provides several output modalities. We also provide the **<font color='#c27ba0'>KIST SynADL dataset</font>** which is generated from our simulation platform.
 
 <figure>
   <img src="/assets/eldersim-figure1.png" alt="figure1"/>
@@ -114,9 +114,9 @@ If you use either the platform or the dataset, please refer to the following tec
   
 ## Download
 ### ●	ElderSim  
-The ElderSim platform can be downloaded by [clicking here]().
-### ●	KIST ElderS  
-The KIST ElderS dataset can be downloaded by [clicking here]().
+The ElderSim platform can be downloaded by [clicking here](https://drive.google.com/drive/folders/1cfqHgnVi4Ji29atCqFwdJLI2bVjjNzQA?usp=sharing).
+### ●	SynADL
+The SynADL dataset can be downloaded by [clicking here](https://drive.google.com/drive/folders/1HomRAWYLiW_dREcwIE_tQUP7qRyV5ZMj?usp=sharing).
 
 | Modality     | Details              | Format      |  Size       |
 | :----------: | :-----------------:  | :---------: | ---------:  |
