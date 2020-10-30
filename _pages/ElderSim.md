@@ -1,7 +1,7 @@
 ---
 permalink: /ElderSim/
 layout: splash
-title: KIST ElderSim / SynADL
+title: ElderSim / KIST SynADL
 header:
   overlay_color: rgba(23,165,137, 0.5)
   overlay_filter: rgba(255, 0, 0, 0.3)
@@ -14,7 +14,7 @@ toc: true
   
 The world's elderly population growth emphasizes the necessity of eldercare technologies and underlines the role of action recognition tasks to comprehend elders' activities of daily living. However, most public datasets used in human action recognition either differ from or have limited coverage of elders' activities in many aspects. Moreover, data acquisition of elders’ ADL is challenging due to the privacy and physical limitations of the elderly.  
 
-We introduce **<font color='#644ca5'>KIST ElderSim</font>**, a synthetic action simulation platform that can generate synthetic data on elders' daily activities. For 55 kinds of frequent daily activities of the elders, ElderSim generates realistic motions of synthetic characters with several customizable data-generating options and provides several output modalities. We also provide the **<font color='#c27ba0'>KIST SynADL dataset</font>** which is generated from our simulation platform.
+We introduce **<font color='#644ca5'>ElderSim</font>**, a synthetic action simulation platform that can generate synthetic data on elders' daily activities. For 55 kinds of frequent daily activities of the elders, ElderSim generates realistic motions of synthetic characters with several customizable data-generating options and provides several output modalities. We also provide **<font color='#c27ba0'>KIST SynADL dataset</font>** which is generated from our simulation platform.
 
 <figure>
   <img src="/assets/eldersim-figure1.png" alt="figure1"/>
@@ -91,8 +91,8 @@ To simulate the effect of sunlight over time, we utilize the SkySphere Blueprint
   Total Samples=actions×subjects×backgrounds×viewpoints×light conditions×objects
 *	**Various modality outputs**  
   ElderSim provides video resolutions and frame rates of up to 1920x1080 and 60 FPS, respectively. Modalities of **RGB video**, **2D**, and **3D skeleton** are provided.  
-*	**KIST ElderS Dataset**  
-  Based on the above developmental features of ElderSim, we generate KIST ElderS, a large-scale synthetic dataset of elders’ activities considering eldercare applications. KIST ElderS provides 462k RGB videos and 2D, 3D skeleton data, covering 55 action classes, 28 camera viewpoints, 15 characters, five lighting conditions, four backgrounds, and a single object.  
+*	**KIST SynADL Dataset**  
+  Based on the above developmental features of ElderSim, we generate KIST SynADL, a large-scale synthetic dataset of elders’ activities considering eldercare applications. KIST SynADL provides 462k RGB videos and 2D, 3D skeleton data, covering 55 action classes, 28 camera viewpoints, 15 characters, five lighting conditions, four backgrounds, and a single object.  
 <figure>
   <img src="/assets/eldersim-figure6.png" alt="figure6"/>
 </figure>
@@ -110,13 +110,13 @@ To simulate the effect of sunlight over time, we utilize the SkySphere Blueprint
 
 ## Publications
 
-If you use either the platform or the dataset, please refer to the following technical report: [PUBLICATION (arXiv)]()
+If you use either the platform or the dataset, please refer to the following technical report: [PUBLICATION (arXiv)](https://arxiv.org/abs/2010.14742)
   
 ## Download
 ### ●	ElderSim  
 The ElderSim platform can be downloaded by [clicking here](https://drive.google.com/drive/folders/1cfqHgnVi4Ji29atCqFwdJLI2bVjjNzQA?usp=sharing).
-### ●	SynADL
-The SynADL dataset can be downloaded by [clicking here](https://drive.google.com/drive/folders/1HomRAWYLiW_dREcwIE_tQUP7qRyV5ZMj?usp=sharing).
+### ●	KIST SynADL
+The KIST SynADL dataset can be downloaded by [clicking here](https://drive.google.com/drive/folders/1HomRAWYLiW_dREcwIE_tQUP7qRyV5ZMj?usp=sharing).
 
 | Modality     | Details              | Format      |  Size       |
 | :----------: | :-----------------:  | :---------: | ---------:  |
