@@ -1,6 +1,14 @@
 main:
   - title: "International Conferences/Journals"
     journal:
+      - title: "ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly"
+        author: Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, and Jaehong Kim
+        academy: "2020 IEEE International Conference on Intelligent Robots and Systems"
+        image: "/assets/etri-activity3d.png"
+        link: 
+          - name: "arxiv" 
+            url: "https://arxiv.org/abs/2003.01920"
+    journal:
       - title: "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity"
         author: Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee
         academy: "ACM Transactions on Graphics, vol. 39, no. 6"
