@@ -1,6 +1,13 @@
 main:
   - title: "International Conferences/Journals"
     journal:
+      - title: "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity"
+        author: Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee
+        academy: "ACM Transactions on Graphics, vol. 39, no. 6"
+        image: "/assets/cospeech_trimodal.png"
+        link: 
+          - name: "arxiv" 
+          - url: "https://arxiv.org/abs/2009.02119"
       - title: "Deep neural networks with a set of node-wise varying activation functions"
         author: "Jang, Jinhyeok, Hyunjoong Cho, Jaehong Kim, Jaeyeon Lee, and Seungjoon Yang"
         academy: "Neural Networks (2020)"
