@@ -8,7 +8,6 @@ main:
         link: 
           - name: "arxiv" 
             url: "https://arxiv.org/abs/2003.01920"
-    journal:
       - title: "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity"
         author: Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee
         academy: "ACM Transactions on Graphics, vol. 39, no. 6"
