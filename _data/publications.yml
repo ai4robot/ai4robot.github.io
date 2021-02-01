@@ -6,8 +6,10 @@ main:
         academy: "2020 IEEE International Conference on Intelligent Robots and Systems"
         image: "/assets/etri-activity3d.png"
         link: 
-          - name: "IROS" 
-            url: "https://library.etri.re.kr/service/rsch/etri-article/down.htm?view=open&resultId=0000063084"
+          - name: "@IROS 2020"
+            url: "https://www.iros2020.org/"
+          - name: "pdf" 
+            url: "https://ai4robot.github.io/resources/IROS2020_JinhyeokJang.pdf"
       - title: "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity"
         author: Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, and Geehyuk Lee
         academy: "ACM Transactions on Graphics, vol. 39, no. 6"
