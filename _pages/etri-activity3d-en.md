@@ -115,7 +115,7 @@ Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim,
 
 ## Download
 Please follow the link below, and join as a member to get to the download page:
-* [http://nanum.etri.re.kr:8080/share/list?lang=En_us](http://nanum.etri.re.kr:8080/share/list?lang=En_us)
+* [https://nanum.etri.re.kr/share/list?lang=En_us](https://nanum.etri.re.kr/share/list?lang=En_us)
 
 ## Contact
 Please email dhkim008@etri.re.kr if you have any questions or comments.

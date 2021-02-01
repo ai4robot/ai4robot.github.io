@@ -98,7 +98,7 @@ Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim,
 
 아래의 문서를 확인하여 다운로드 바랍니다.
 
-* **가이드라인** [다운로드](/resources/guideline.pdf){: target="_blank" }
+* **가이드라인** [다운로드](/resources/etri-activity3d-guideline.pdf){: target="_blank" }
 
 ## 담당자 연락처
 
