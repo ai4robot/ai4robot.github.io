@@ -92,13 +92,13 @@ toc: true
 ## 참조
 본 데이터셋을 참조하거나 활용하시는 경우 아래의 논문을 인용해 주시기 바랍니다.
 
-Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly,” arXiv:2003.01920
+Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly”, International Conference on Intelligent Robots and Systems (IROS) 2020, pp.10990-10997
 
 ## 다운로드
 
 아래의 문서를 확인하여 다운로드 바랍니다.
 
-* **가이드라인** [다운로드](/resources/guideline.pdf){: target="_blank" }
+* **가이드라인** [다운로드](/resources/etri-activity3d-guideline.pdf){: target="_blank" }
 
 ## 담당자 연락처
 
