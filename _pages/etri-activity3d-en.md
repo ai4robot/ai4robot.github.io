@@ -111,7 +111,7 @@ Unique characteristics and advantages of the proposed dataset over the existing 
 ## Publications 
 All documents and papers that report on research that uses the ETRI-Activity3D dataset should cite the following paper:
 
-Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly,” arXiv:2003.01920
+Jinhyeok Jang, Dohyung Kim, Cheonshu Park, Minsu Jang, Jaeyeon Lee, Jaehong Kim, “ETRI-Activity3D: A Large-Scale RGB-D Dataset for Robots to Recognize Daily Activities of the Elderly”, International Conference on Intelligent Robots and Systems (IROS) 2020, pp.10990-10997
 
 ## Download
 Please follow the link below, and join as a member to get to the download page:
