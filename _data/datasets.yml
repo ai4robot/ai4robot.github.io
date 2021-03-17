@@ -12,8 +12,10 @@ main:
     body: "A Realistic RGB-D Dataset for Elderly People's Daily Activity Recognition 로봇환경에서 고령자의 일상행동 인식을 위한 3D 영상 데이터셋으로 고령자가 실제 생활하는 가정 30곳을 방문하여 55개 행동을 대상으로 수집한 6,589개의 RGB-D 데이터로 구성되어 있다."
     image : "/assets/livinglab-data-thumbnail.png"
     link:
-      - name: "link"
+      - name: "kor"
         url: "/etri-activity3d-livinglab/"
+      - name: "eng"
+        url: "/etri-activity3d-livinglab-en/"
 
   - title: "KIST ElderSim / KIST SynADL"
     body: "Synthetic Action Simulation Platform for Elderly Action Data Generation"
