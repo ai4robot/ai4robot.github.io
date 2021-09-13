@@ -110,6 +110,13 @@ main:
         link:
           - name: "link"
             url: "https://ai4robot.github.io/resources/roman2019_shri_workshop_minsujang.pdf"
+      - title: "Introduction to Research Efforts on Robot AI for Elderly-Care"
+        author: "Minsu Jang"
+        academy: "2020-10-15 @CBNU"
+        image : "/assets/talk@cbnu_minsujang_20201015.png"
+        link:
+          - name: "link"
+            url: "https://ai4robot.github.io/resources/talk@cbnu_minsujang_20201015.pdf"
 
 
   - title: "Korean Conferences/Journals"
