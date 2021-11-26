@@ -19,18 +19,18 @@ toc: true
   <figcaption>[Figure 1] Sample frames of ETRI-Activity3D-LivingLab dataset. Samples are displayed with the corresponding depth map and skeleton data. Activities(from left to right): taking medicine, taking off a jacket, vacuuming the floor, using a remote control.</figcaption>
 </figure>
 
-&emsp;&emsp;We introduce ETRI-Activity3D-LivingLab, realistic dataset for more practical activity recognition studies in robot environments. The dataset was built in a residential environment where the elderly actually live, not in a testbed. We visited 30 households where elderly people live alone and acquired 6,589 3D visual data from the robot’s point of view. 
+&emsp;&emsp;We introduce ETRI-Activity3D-LivingLab, realistic dataset for more practical activity recognition studies in robot environments. The dataset was built in a residential environment where the elderly actually live, not in a testbed. We visited 50 households where elderly people live alone and acquired 8,622 3D visual data from the robot’s point of view. 
 
 &emsp;&emsp;Our dataset aims to reflect as much as possible the situation that robots serve. We constructed a capturing equipment with Kinect v2 sensors installed at 70cm and 120cm heights considering the height of the home service robots. The equipment was placed in various locations where robots may exist in the home. The distance between the camera and the target human varies from 1.5 m to 3.5 m.
 
-&emsp;&emsp;ETRI-Activity3D-LivingLab is meaningful in that it is the first 3D activity recognition dataset acquired from the robot perspective in various residential spaces where the elderly live. We also plan to release additional data from another 20 households in the near future.
+&emsp;&emsp;ETRI-Activity3D-LivingLab is meaningful in that it is the first 3D activity recognition dataset acquired from the robot perspective in various residential spaces where the elderly live.
 
 
 | Item                    | Contents                                                          |
 | :---------------------: | :---------------------------------------------------------------: |
-| Number of samples       | 6,589                                                             |
+| Number of samples       | 8,622                                                             |
 | Number of action classes| 55                                                                |
-| Number of subjects      | 30 (3 males, 27 females)                                          |
+| Number of subjects      | 50 (8 males, 42 females)                                          |
 | Collection environment  | The actual home environments of the elderly living alone          |
 | Obtaining location      | Various places that robots can be located                         |
 | Data modalities         | RGB videos, depth map frames, body index frames, 3D skeletal data |
@@ -83,15 +83,15 @@ Sample videos of our dataset can be downloaded from the link below.
 
 |  Collected Data   | Resolution | File Format |         Size |
 | :---------------: | :--------: | :---------: | -----------: |
-|    RGB Videos     | 1920x1080  |     MP4     |      31.79GB |
-| Depth Map Frames  |  512x424   |     PNG     |     363.80GB |
-| Body Index Frames |  512x424   |     PNG     |       5.44GB |
-| 3D Skeletal Data  | 25 joints  |     CSV     |       4.75GB |
-|                   |            |  **Total**  | **405.78GB** |
+|    RGB Videos     | 1920x1080  |     MP4     |       42.4GB |
+| Depth Map Frames  |  512x424   |     PNG     |     512.20GB |
+| Body Index Frames |  512x424   |     PNG     |       7.04GB |
+| 3D Skeletal Data  | 25 joints  |     CSV     |       5.49GB |
+|                   |            |  **Total**  | **567.13GB** |
 
 ## Download
 Please follow the link below, and join as a member to get to the download page:
-* [https://nanum.etri.re.kr/share/list?lang=En_us](https://nanum.etri.re.kr/share/list?lang=En_us)
+* [ETRI-AI-NANUM](https://nanum.etri.re.kr/share/list?lang=En_us)
 
 ## Contact
 Please email [dhkim008@etri.re.kr](mailto:dhkim008@etri.re.kr) if you have any questions or comments.
