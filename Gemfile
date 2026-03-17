@@ -18,4 +18,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
